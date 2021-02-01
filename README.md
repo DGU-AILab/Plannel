@@ -1,8 +1,9 @@
-### Project1
+### Project1 (https://github.com/DGU-AILab/Proejct1)
  
 개발진행 상황: 준비단계<br>
-목적: Linux system 관리 시스템 <br>
+목적: Linux Docker container 관리 시스템 <br>
 기능: <br> 
+* 컨테이너 HealthCheck<br>
 * Linux user 별 사용 기록 저장 및 조회 
 * CPU 및 Memory,GPU 사용량 수집
 * 장애시 카카오톡/메일 알림 메세지 전송 <br>
