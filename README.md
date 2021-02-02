@@ -1,5 +1,7 @@
 ### Plannel (https://github.com/DGU-AILab/Plannel)
  
+()[./Plannel-Architecture.jpg]
+
 개발진행 상황: 준비단계<br>
 목적: Linux Docker container 관리 시스템 <br>
 기능: <br> 
